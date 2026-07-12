@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/T-H-10/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/T-H-10/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,7 @@
 | [0006-zigzag-conversion](https://github.com/T-H-10/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/T-H-10/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/T-H-10/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,4 +54,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/T-H-10/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
