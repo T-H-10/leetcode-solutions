@@ -37,6 +37,7 @@
 | [0008-string-to-integer-atoi](https://github.com/T-H-10/leetcode-solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/T-H-10/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/T-H-10/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +59,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/T-H-10/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
