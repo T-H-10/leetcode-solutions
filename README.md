@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/T-H-10/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/T-H-10/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/T-H-10/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/T-H-10/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 <!---LeetCode Topics End-->
