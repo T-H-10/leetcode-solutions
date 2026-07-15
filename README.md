@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/T-H-10/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-H-10/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | [0007-reverse-integer](https://github.com/T-H-10/leetcode-solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/T-H-10/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/T-H-10/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/T-H-10/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +91,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
