@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-H-10/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1929-concatenation-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -20,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/T-H-10/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/T-H-10/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0645-set-mismatch](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0645-set-mismatch/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,10 +109,15 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0645-set-mismatch](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0645-set-mismatch/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1929-concatenation-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
