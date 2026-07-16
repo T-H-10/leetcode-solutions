@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/T-H-10/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-H-10/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1929-concatenation-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
