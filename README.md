@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/T-H-10/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-H-10/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [1929-concatenation-of-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1929-concatenation-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
@@ -108,5 +109,6 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1929-concatenation-of-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
