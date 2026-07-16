@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/T-H-10/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-H-10/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/T-H-10/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@
 | [0005-longest-palindromic-substring](https://github.com/T-H-10/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/T-H-10/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-H-10/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +100,13 @@
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->
