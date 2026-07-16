@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/T-H-10/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1929-concatenation-of-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/T-H-10/leetcode-solutions/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -22,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/T-H-10/leetcode-solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/T-H-10/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0645-set-mismatch](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0645-set-mismatch/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -120,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/0645-set-mismatch/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/T-H-10/leetcode-solutions/tree/main/Python3/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
